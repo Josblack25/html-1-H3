@@ -4,11 +4,16 @@ Alumno Adonis Daller
 
 
 |Hacks | Details | 
-|----------|---------|
-| H-1      | Position or Free Mode |
+|----------|--------------------------------|
+| H-3    | |                                |
+|----------|--------------------------------|
+|Crear el hack html mediante el uso de flex |
+|   - se prohibe el uso de position         |
+|   - se prohibe el uso de float            |
 
-creacion del hack 1 siguiendo las normativas establecidas
- 3. Crear el hack html mediante el uso de flex
+
+creacion del hack 3 siguiendo las normativas establecidas
+  Crear el hack html mediante el uso de flex
     - se prohibe el uso de position
     - se prohibe el uso de float
 
